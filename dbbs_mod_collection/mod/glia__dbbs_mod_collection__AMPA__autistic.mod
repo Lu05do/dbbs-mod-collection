@@ -29,9 +29,9 @@ UNITS {
 	(nS) = (nanosiemens)
 	(um) = (micrometer)
 	PI	= (pi)		(1)
-    }
+}
 
-    PARAMETER {
+PARAMETER {
 	syntype
 	gmax_factor = 1
 	Q10_diff	= 1.5
